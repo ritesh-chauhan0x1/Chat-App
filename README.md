@@ -45,4 +45,4 @@ vercel --prod
 - LinkedIn: [ritesh-chauhan](https://www.linkedin.com/in/ritesh-chauhan-79818a374/)
 
 ---
-⭐ Star this repository if you found it helpful
+⭐ Star this repository if you found it helpful.
